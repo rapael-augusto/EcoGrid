@@ -1,0 +1,427 @@
+Id da Instala��o;Nome;Id Agente Principal;Agente Principal;Data Prevista;Data Entrada,x,y
+RNCPD;SUB CABECO PRETO II                                RN       ;AGT;GESTAMP EOLICA AGRESTE SA                                      ;28/02/2017;19/11/2016,-35.98544400199995,-5.475721999999962
+BAUPR;SUB UTE PROSPERIDADE                               BA       ;IME;IMETAME ENERGIA LTDA                                           ;31/01/2018;16/10/2018,-38.207200005999994,-12.499200001999952
+ALART ;SUB ARAPIRACA III                                  AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;29/06/2013;09/06/2013,-36.65173100699997,-9.784325003999982
+ALMCD ;SUB MACEIO II                                      AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/01/2019;17/02/2019,-35.73770800199998,-9.53098900599997
+ALMCO ;SUB MACEIO                                         AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.786666706000005,-9.57761110399997
+ALMSI ;SUB MESSIAS                                        AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.846666701000004,-9.387194402999967
+ALPEN ;SUB PENEDO                                         AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.586388900999964,-10.290000007000003
+ALRLD ;SUB RIO LARGO II                                   AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.83000000599998,-9.47052780599995
+ALSTII;SUB SANTANA II                                     AL       ;BR3;BRE 3 IMPLANTAÇÃO DE SISTEMAS DE TRANSMISSÃO ELÉTRICA SOCIEDADE;21/03/2022;21/09/2021,-37.278713606,-9.365179904000001
+BAABD ;SUB ABIL II                                        BA       ;986;Renova Energia SA                                              ;31/03/2022;27/10/2022,-42.575483002,-14.353822000999969
+BAABL ;SUB ABIL-I                                         BA       ;BIL;CENTRAIS EOLICAS ABIL S.A.                                     ;30/12/2016;10/02/2022,-42.575842000999955,-14.353933006999966
+BAABX ;SUB ABAIXADORA                                     BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.194200002,-9.395278007000002
+BAALC1;SUB ALCAÇUZ                                        BA       ;LCZ;CENTRAIS EÓLICAS ALCAÇUZ S.A.                                  ;01/07/2016;,-42.69359400099995,-13.816453002999992
+BAALG ;SUB ALAGOINHAS II                                  BA       ;BIS;BRE 2 IMPLANTAÇÃO DE SISTEMAS DE TRANSMISSÃO ELÉTRICA SOCIEDADE;21/03/2023;22/04/2023,-38.400113902999976,-12.048938900999985
+BAALV ;SUB ALVORADA                                       BA       ;ALV;Centrais Eólicas Alvorada SA                                   ;30/04/2014;04/07/2014,-42.636807001999955,-14.208409003999975
+BAARA ;SUB ARACAS                                         BA       ;ASD;Centrais Eólicas dos Araças SA                                 ;31/10/2014;11/10/2014,-42.609369001999994,-14.102794007
+BAASU ;SUB ASSURUA                                        BA       ;CP3;PARQUE EÓLICO CAPOEIRAS III S.A.                               ;31/12/2017;13/04/2018,-42.70830000199999,-11.195600002999981
+BABAB ;SUB BABILONIA                                      BA       ;BA3;CENTRAL EOLICA BABILONIA III S.A.                              ;31/08/2018;14/11/2018,-41.22799999999995,-10.970000006999953
+BABDD ;SUB BRUMADO II                                     BA       ;AFT;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S.A.                  ;30/06/2002;12/11/2002,-41.63611110299996,-14.213611103999995
+BABJD ;SUB BOM JESUS DA LAPA II                           BA       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;30/04/2003;04/03/2003,-43.34292358899995,-13.31012588599998
+BABJS ;SUB BOM JESUS DA LAPA                              BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-43.34611110399999,-13.308900006999977
+BABMC ;SUB BROTAS DE MACAUBAS                             BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/06/2012;17/06/2012,-42.342846006,-12.30940899999996
+BABOT ;SUB BOTUQUARA                                      BA       ;BTQ;Centrais Elétricas Botuquara Ltda.                             ;01/01/2017;,-42.89278100399997,-13.55551100599996
+BABRA ;SUB BARREIRAS                                      BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-44.94555560499998,-12.131944402999977
+BABRD ;SUB BARREIRAS II                                   BA       ;PTR;PARANAÍBA TRANSMISSORA DE ENERGIA S.A.                         ;12/03/2017;28/05/2017,-44.81371400499995,-12.171311005999996
+BABRT ;SUB BURITIRAMA                                     BA       ;EQ2;Equatorial Transmissora 2 SPE SA                               ;17/01/2020;22/01/2020,-44.04746700099997,-10.602586000999963
+BABSD ;SUB BOM JESUS II                                   PI       ;PDT;SAO PEDRO TRANSMISSORA DE ENERGIA S/A                          ;07/08/2017;21/02/2018,-44.31686700099999,-9.100731000999986
+BABW1 ;SUB BW GUIRAPA I                                   BA       ;ANG;Central Eólica Angical                                         ;30/11/2015;05/02/2016,-42.608611002999965,-14.348889000999975
+BABW2 ;SUB BW GUIRAPA II                                  BA       ;DUA;Central Eólica Tamanduá Mirim SA                               ;30/11/2015;16/02/2016,-42.62833300199998,-14.40305600399995
+BACCD ;SUB CICERO DANTAS                                  BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.36722220499996,-10.595277800999952
+BACFO ;SUB CAMPO FORMOSO                                  BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/11/2015;10/10/2015,-40.61323100299995,-10.584231004000003
+BACLA ;SUB CAMPO LARGO                                    BA       ;WWP;CLWP EOLICA PARQUE I S.A.                                      ;01/12/2018;04/07/2018,-41.33972220099997,-10.87333330499996
+BACMD ;SUB CAMACARI II                                    BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.348055504,-12.617777801999978
+BACMQ ;SUB CAMACARI IV                                    BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;19/11/2012;19/11/2012,-38.34283300499999,-12.611028000999966
+BACND ;SUB CASA NOVA II                                   BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/09/2017;09/12/2017,-41.02800000499997,-9.286400005999951
+BACPBR;SUB PEDRA BRANCA                                   BA       ;DRA;PEDRA BRANCA SA                                                ;31/03/2013;03/02/2013,-41.09000000399999,-9.856667004999963
+BACRI ;SUB CRISTAL                                        BA       ;IST;Enel Green Power Cristal Eólica SA                             ;31/01/2017;10/11/2017,-41.378256000999954,-11.735466003999989
+BACTA ;SUB CAETITE A                                      BA       ;TTA;EOLICA CAETITE A S.A.                                          ;31/10/2015;09/09/2015,-42.47820600099999,-14.138050004999968
+BACTE ;SUB CAETITE                                        BA       ;ETI;Centrais Eólicas Caetité Ltda                                  ;30/11/2015;01/01/2016,-42.58293500499997,-14.468988002000003
+BACTG ;SUB COTEGIPE                                       BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.42777780399996,-12.791388906999998
+BACTT ;SUB CAETITE 123                                    BA       ;968;Caetité 2 Energia Renovável S.A.                               ;31/10/2014;03/10/2014,-42.49335600399996,-14.18629200099997
+BACTU ;SUB CATU                                           BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.366944402,-12.39138890099997
+BACVN ;SUB CURVA DOS VENTOS                               BA       ;GRR;ENEL GREEN POWER EMILIANA EÓLICA SA                            ;31/07/2014;26/09/2014,-42.61620100599998,-13.91636400699997
+BADFN ;SUB DELFINA                                        BA       ;DLF;ENEL GREEN POWER DELFINA A EÓLICA S.A.                         ;01/10/2017;31/10/2017,-40.92990000499998,-10.007217004999973
+BAENP ;SUB EUNAPOLIS                                      BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-39.580277800999966,-16.377222202999974
+BAFDS ;SUB FOLHA DE SERRA                                 BA       ;BLV;CENTRAIS EOLICAS FOLHA DA SERRA S.A                            ;30/12/2016;02/02/2022,-42.56164099999995,-14.542464800999994
+BAFNL ;SUB FUNIL                                          BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;06/02/2000,-39.46277800199999,-14.232222005999972
+BAFRD ;SUB FORD                                           BA       ;AFT;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S.A.                  ;;31/12/1990,-38.27745700599996,-12.66931400499999
+BAFS3 ;SUB FEIRA DE SANTANA III                           BA       ;YON;FS TRANSMISSORA DE ENERGIA ELÉTRICA S.A.                       ;21/03/2022;02/09/2022,-38.949611104999974,-12.134166702999948
+BAGBL ;SUB GLOBAL                                         BA       ;C10;COMPANHIA ENERGETICA CANDEIAS                                  ;30/06/2010;07/05/2010,-38.482917002999955,-12.727500007000003
+BAGOI ;SUB GENTIO DO OURO I                               BA       ;SSR;ASSURUA 1 II ENERGIA S.A.                                      ;28/02/2016;05/04/2016,-42.66154400299996,-11.11735299999998
+BAGOR ;SUB GENTIO DO OURO II                              BA       ;JMM;TRANSMISSORA JOSE MARIA DE MACEDO DE ELETRICIDADE S.A.         ;27/03/2018;04/05/2018,-42.64555600299997,-11.317778006999959
+BAGRP ;SUB GUIRAPA                                        BA       ;GPA;Centrais Eólicas Guirapá SA                                    ;30/04/2014;04/07/2014,-42.598414004000006,-14.17214200699999
+BAGVM ;SUB GOVERNADOR MANGABEIRA                          BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-39.03333330199996,-12.60638890499996
+BAICA ;SUB IBICOARA                                       BA       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;31/03/2003;04/03/2003,-41.37555560499999,-13.442500002999964
+BAIGB ;SUB ITAGIBA                                        BA       ;AFT;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S.A.                  ;31/10/2009;13/09/2009,-39.71658900399996,-14.234494000999973
+BAIGD ;SUB IGAPORA II                                     BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/05/2014;30/05/2014,-42.629444003,-14.027222000999984
+BAIGT ;SUB IGAPORA III                                    BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;25/10/2015;15/11/2015,-42.61969400199996,-14.015189007000004
+BAIRE ;SUB IRECE                                          BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-41.80768800499999,-11.309515006999959
+BAITB3;SUB ITABUNA III                                    BA       ;AE3;ARTEON Z3 ENERGIA S.A.                                         ;25/02/2021;26/11/2021,-39.26870830399997,-14.829030603999968
+BAJCR ;SUB JACARACANGA                                    BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.48444440199995,-12.69305559999998
+BAJGR ;SUB JAGUARARI-SE                                   BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-39.96666700399999,-9.850000002000002
+BAJZD ;SUB JUAZEIRO II                                    BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-40.477222203999986,-9.479972205999957
+BAJZS ;SUB JUAZEIRO SOLAR                                 BA       ;JSI;Central Fotovoltaica Juazeiro Solar I SPE Ltda                 ;30/11/2018;12/12/2018,-40.488999999999976,-9.533300005000001
+BAJZT ;SUB JUAZEIRO DA BAHIA III                          BA       ;ODO;ARGO V TRANSMISSAO DE ENERGIA S.A                              ;21/12/2016;04/09/2016,-40.48122100499995,-9.47123200499999
+BALAL ;SUB LICINIO DE ALMEIDA                             BA       ;ODA;Centrais Eólicas Licínio de Almeida SA                         ;30/03/2013;04/07/2014,-42.640231005999965,-14.183517999999992
+BAMOR ;SUB MORRAO                                         BA       ;MOO;Centrais Elétricas Morrão SA                                   ;31/10/2014;11/10/2014,-42.681442000000004,-14.128731004999963
+BAMPD ;SUB MORRO DO CHAPEU II                             BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/08/2017;01/08/2017,-41.350884004999955,-11.723876007000001
+BAMTT ;SUB MATATU                                         BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.48444440199995,-12.97555560699999
+BANRD ;SUB NARANDIBA                                      BA       ;NRD;SE NARANDIBA S.A.                                              ;30/06/2011;06/06/2011,-38.445330001,-12.953720406000002
+BANSC ;SUB NOSSA SENHORA DA CONCEICAO                     BA       ;NSC;Centrais Eólicas Nossa Senhora da Conceição SA                 ;30/03/2014;04/07/2014,-42.66591300099998,-13.886154003999991
+BAOLD ;SUB OLINDINA                                       BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.38640000699996,-11.316100001999985
+BAOUR ;SUB OUROLANDIA II                                  BA       ;JMM;TRANSMISSORA JOSE MARIA DE MACEDO DE ELETRICIDADE S.A.         ;27/03/2018;04/05/2018,-41.254033006999975,-10.798733003999985
+BAPAF ;SUB PAULO AFONSO III                               BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.197800003,-9.402200005999987
+BAPAQ ;SUB SE PAULO  AFONSO IV                            BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.19777779999998,-9.412500002000002
+BAPEL ;SUB PELOURINHO                                     BA       ;NOO;Centrais Eólicas Pelourinho Ltda                               ;30/11/2015;01/01/2016,-42.58838700499996,-14.50929300499996
+BAPLO ;SUB POLO                                           BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/07/2009;08/02/2009,-38.273905999999954,-12.662964001999967
+BAPND ;SUB PINDAI II                                      BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;25/10/2015;15/11/2015,-42.60776700099996,-14.415433004999954
+BAPNT ;SUB PLANALTINA                                     BA       ;PTA;Centrais Eólicas Planaltina SA                                 ;30/03/2014;04/07/2014,-42.63900600399995,-13.997313000999952
+BAPOD ;SUB POCOES II                                      BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;29/10/2019;27/10/2019,-40.37510300399998,-14.517532005999954
+BAPOT ;SUB POCOES III                                     BA       ;IBT;EDTE - EMPRESA DIAMANTINA DE TRANSMISSÃO DE ENERGIA S.A.       ;27/12/2019;22/12/2019,-40.398938902,-14.518956504999949
+BAPRJ ;SUB PIRAJA                                         BA       ;MEZ;MEZ 1 ENERGIA S.A.                                             ;28/08/2024;19/01/2025,-38.45592199999999,-12.92214400399996
+BAPTU ;SUB PITUACU                                        BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.420000001999995,-12.939166702999955
+BARDE ;SUB RIO DAS EGUAS                                  BA       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;31/03/2003;04/03/2003,-46.17750000199999,-13.85083330499998
+BARFM ;SUB RIO FORMOSO II                                 BA       ;KT6;NEOENERGIA RIO FORMOSO TRANSMISSAO E ENERGIA S.A.              ;15/09/2022;29/01/2023,-45.660417005,-14.536722005000001
+BARGD ;SUB RIO GRANDE II                                  BA       ;PDT;SAO PEDRO TRANSMISSORA DE ENERGIA S/A                          ;12/03/2017;28/05/2017,-45.48945800199999,-12.845135003999985
+BASAZ ;SUB SERRA AZUL                                     BA       ;ASC;Enel Green Power Damascena Eólica SA                           ;30/09/2016;14/11/2015,-41.45839400599999,-11.866389006999952
+BASDB ;SUB SERRA DA BABILONIA                             BA       ;SDB;EÓLICA SERRA DA BABILÔNIA II S.A.                              ;30/09/2018;12/12/2018,-41.32873330299998,-11.10466110699997
+BASNB ;SUB SENHOR DO BONFIM II                            BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-40.186944402999984,-10.45444440099999
+BASPD ;SUB SAO PEDRO                                      BA       ;PDO;Central Fotovoltaica São Pedro II Ltda                         ;31/07/2018;08/11/2018,-43.272800005999954,-13.31640000699997
+BASPU ;SUB SAPEACU                                        BA       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;30/04/2003;04/03/2003,-39.18333329999996,-12.719444401999965
+BASTJ ;SUB SANTO ANTONIO DE JESUS                         BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-39.26638890099997,-12.949722200999986
+BATBD ;SUB TAMBORIL II                                    BA       ;ACC;CENTRAIS EOLICAS ACACIA S.A.                                   ;30/09/2017;18/05/2022,-42.69290870399999,-13.88874199999998
+BATBR ;SUB TAMBORIL I                                     BA       ;RRV;Centrais Eólicas Amescla S.A.                                  ;01/07/2016;22/10/2022,-42.69306040599997,-13.88875859999996
+BATBV ;SUB TABOCAS DO BREJO VELHO                         BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/03/2017;04/06/2017,-44.06151020499999,-12.810368001999962
+BATMB ;SUB TOMBA                                          BA       ;AFT;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S.A.                  ;;06/02/2000,-38.967222205999974,-12.28736100399999
+BATXF ;SUB TEIXEIRA DE FREITAS II                         BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/04/2019;01/04/2019,-39.73049830599996,-17.570299103999957
+BAUBN ;SUB UMBURANAS                                      BA       ;UB1;EÓLICA UMBURANAS 1 S.A.                                        ;30/11/2018;04/01/2019,-41.568600006,-10.670800000999975
+BAUITP;SUB ITAPEBI SE                                     BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;01/01/2003;31/01/2003,-39.584745618,-15.969236025999976
+BAUMB ;SUB UMBUZEIRO                                      BA       ;BZZ;Centrais Eólicas Umbuzeiro S.A.                                ;01/07/2016;,-42.672094001999994,-14.008950002999995
+BAVB2 ;SUB VENTOS DA BAHIA II                             BA       ;VB1;Parque Eólico Ventos da Bahia I                                ;30/04/2018;07/09/2018,-41.490600004999976,-11.981400006000001
+BAVCC ;SUB VERACEL                                        BA       ;VEL;Veracel Celulose                                               ;30/09/2006;09/01/2004,-39.40611100199999,-16.08333300099997
+BAZBU ;SUB ZEBU                                           AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;16/08/2012;02/06/2000,-38.20277800399998,-9.355833001999997
+CEACT ;SUB ARACATI III                                    CE       ;;;31/12/2022;,-37.81869700599998,-4.470939002999955
+CEAQR ;SUB AQUIRAZ II                                     CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/12/2013;11/12/2013,-38.38848899999999,-3.9190809059999765
+CEARC2;SUB ARACATI II                                     CE       ;ERE;CPFL ENERGIAS RENOVAVEIS S.A.                                  ;30/12/2009;26/01/2010,-37.763092003999986,-4.4880190049999555
+CEAUD ;SUB ACARAU II                                      CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/04/2010;26/05/2010,-40.116361006999966,-2.9297780019999777
+CEAUT ;SUB ACARAU III                                     CE       ;899;ARGO TRANSMISSÃO DE ENERGIA S.A.                               ;27/06/2019;07/09/2019,-40.11163300299995,-2.9280470009999817
+CEBNB ;SUB BANABUIU                                       CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.91277780399997,-5.305250003999959
+CECAL ;SUB CALCARIO                                       CE       ;API;APODI I ENERGIA SPE S/A                                        ;30/06/2018;28/11/2018,-37.78500000399998,-5.03470000599998
+CECBS ;SUB CACIMBAS                                       CE       ;BVC;GERADORA EOLICA BONS VENTOS DA SERRA 2 S.A.                    ;30/12/2017;10/05/2018,-41.04278300699997,-3.9061110019999887
+CECPE ;SUB CAUIPE                                         CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.87166700499995,-3.697500004999995
+CECRA2;SUB CRATO II                                       CE       ;DP2;DOM PEDRO II TRANSMISSORA DE ENERGIA SPE LTDA.                 ;20/09/2023;,-39.411944403999996,-7.200555503999965
+CEDM2 ;SUB DIAS MACEDO II                                 CE       ;BR4;BRE 4 IMPLANTAÇÃO DE SISTEMAS DE TRANSMISSÃO ELÉTRICA SOCIEDADE;31/03/2026;,-38.51694440099999,-3.788333303999991
+CEDMG ;SUB DELMIRO  GOUVEIA                               CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.516666703,-3.7927500010000017
+CEFSA ;SUB FAISA                                          CE       ;FAI;Eólica Faísa I  Geração e Comercialização de Energia SA        ;31/05/2014;29/03/2014,-39.26042300499995,-3.3411290049999707
+CEFTZ ;SUB FORTALEZA                                      CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.521388903,-3.8024722039999688
+CEFZD ;SUB FORTALEZA II                                   CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.521381706,-3.805444405000003
+CEIBD ;SUB IBIAPINA II                                    CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/08/2016;12/09/2016,-41.19166600699998,-3.896953999999994
+CEICO ;SUB ICO                                            CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.86777780199998,-6.410250000999952
+CEITC ;SUB ITAREMA V                                      CE       ;TA5;EOLICA ITAREMA V S.A.                                          ;31/03/2017;01/01/2016,-39.88944400099996,-2.965278006999995
+CEJGII;SUB JAGUARUANA II                                  CE       ;DTE; DUNAS TRANSMISSÃO DE ENERGIA S.A.                             ;21/09/2023;15/05/2024,-37.71298950199997,-4.947946503999958
+CEMAU ;SUB MARACANAU II                                   CE       ;NAU;CPFL TRANSMISSÃO DE ENERGIA MARACANAÚ LTDA.                    ;21/03/2022;01/05/2022,-38.657989002999955,-3.8639360069999498
+CEMLD ;SUB MILAGRES II                                    CE       ;GST;GIOVANNI SANGUINETTI TRANSMISSORA DE ENERGIA S.A.              ;15/03/2020;11/04/2020,-38.92654900299999,-7.343106001999956
+CEMLG ;SUB MILAGRES                                       CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;06/02/2000,-38.938333005000004,-7.306666999999948
+CEMPD ;SUB MASSAPE II                                     CE       ;FSA;EÓLICA FORMOSA LTDA                                            ;30/07/2009;26/08/2009,-40.326822005,-3.588894001999961
+CEPCD ;SUB PICI II                                        CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;16/04/2005;05/05/2005,-38.58277780599997,-3.7444443999999635
+CEPCE ;SUB PECEM II                                       CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/10/2013;06/10/2013,-38.87680600599998,-3.5954780059999507
+CEPCM ;SUB ENERGIA PECEM                                  CE       ;PPG;Porto Pecem Geracao de Energia SA                              ;30/11/2011;17/12/2010,-38.87263100599995,-3.582036003999974
+CEPCT ;SUB PACATUBA                                       CE       ;DTE; DUNAS TRANSMISSÃO DE ENERGIA S.A.                             ;19/09/2024;16/10/2024,-38.54909390199998,-3.887122101999978
+CEPPG ;SUB PAPAGAIO                                       CE       ;BUR;Nova Eólica Buriti SA                                          ;31/08/2013;21/03/2014,-39.994861007,-2.8843060059999743
+CEQXA ;SUB QUIXADA                                        CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;01/12/2001;31/07/2003,-38.92777800599998,-4.952500000999976
+CEQXR ;SUB QUIXERE                                        CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/05/2014;12/11/2014,-37.78543800099999,-5.035035006999976
+CERSD ;SUB RUSSAS II                                      CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.988888903999964,-4.933861106999984
+CESBD ;SUB SOBRAL II                                      CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-40.38257200299995,-3.6998220009999727
+CESBT ;SUB SOBRAL III                                     CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-40.30046300599997,-3.6903580059999967
+CESDF ;SUB SOL DO FUTURO                                  CE       ;SO1;CENTRAL FOTOVOLTAICA SOL DO FUTURO I S.A.                      ;31/10/2018;02/03/2019,-38.39390000699996,-3.9781000019999624
+CESEIC;SUB ICARAI                                         CE       ;ICC;Central Geradora Eólica Icaraí I SA                            ;28/02/2014;29/03/2014,-39.601742006999984,-3.0959340039999574
+CESRL ;SUB SANTA ROSALIA                                  CE       ;NVM;Nova Ventos do Morro do Chapeú Energias Renováveis SA          ;31/10/2016;28/09/2016,-41.182350001999964,-3.8692500069999483
+CETAA ;SUB TAUA II                                        CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;12/12/2007;28/12/2007,-40.27583330099998,-6.002111106999962
+CETBA ;SUB TAIBA                                          CE       ;ETG;Central Geradora Eólica Taíba Águia SA                         ;30/06/2014;19/06/2014,-38.88880200699998,-3.5462600070000008
+CETIA ;SUB TIANGUA II                                     CE       ;899;ARGO TRANSMISSÃO DE ENERGIA S.A.                               ;27/06/2019;18/09/2019,-41.01228599999996,-3.7730860039999925
+CETRA ;SUB TRAIRI                                         CE       ;ATI;Central Eólica Trairí SA                                       ;30/11/2013;22/11/2013,-39.29624400299997,-3.242560006999952
+MAAC  ;SUB ACAILANDIA                                     MA       ;ATE;EMPRESA AMAZONENSE DE TRANSMISSÃO DE ENERGIA S.A.              ;28/02/2003;20/02/2003,-47.401388905999966,-4.915888905999964
+MAAL  ;SUB ALUMAR                                         MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.334259003,-2.704936004999979
+MABAC ;SUB BACABEIRA                                      MA       ;899;ARGO TRANSMISSÃO DE ENERGIA S.A.                               ;27/06/2019;07/09/2019,-44.30368300499998,-3.0216360019999797
+MABAL ;SUB BALSAS                                         MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;30/11/2011;04/12/2011,-46.01926000399999,-7.512490004999961
+MACD  ;SUB CHAPADINHA II                                  MA       ;MA2;HORIZON TRANSMISSÃO MA II S.A.                                 ;20/01/2020;04/01/2020,-43.40616700099997,-3.796367004999979
+MACH  ;SUB COELHO NETO                                    MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-42.988526999999976,-4.3026110010000025
+MACXD ;SUB CAXIAS II                                      MA       ;ARR;ARTEON Z2 ENERGIA S.A.                                         ;22/01/2021;13/06/2021,-43.410047002,-4.884469002999992
+MAEN  ;SUB ENCRUZO NOVO                                   MA       ;ENN;ENCRUZO NOVO TRANSMISSORA DE ENERGIA S.A.                      ;30/08/2012;02/07/2012,-45.86438099999998,-2.197727001999965
+MAGN  ;SUB GERANORTE                                      MA       ;GNO;Gera Maranhão Geradora de Energia do Maranhão SA               ;31/01/2010;09/01/2010,-44.55580100399999,-3.56590900599997
+MAIZ  ;SUB IMPERATRIZ                                     MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-47.47191700299999,-5.42315300599995
+MALD  ;SUB SAO LUIS II                                    MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.316944003,-2.7172220049999964
+MALI  ;SUB SAO LUIS I                                     MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.28888890099995,-2.600944400000003
+MALQ  ;SUB SAO LUIS IV                                    MA       ;MA1;HORIZON TRANSMISSÃO MA I S.A.                                  ;24/12/2021;25/02/2021,-44.314167,-2.675556599999993
+MALT  ;SUB SAO LUIS III                                   MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;31/05/2010;30/05/2010,-44.14770810299996,-2.5815438999999856
+MAMR  ;SUB MIRANDA II                                     MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.53547800299998,-3.566218606999996
+MAPD  ;SUB PRESIDENTE DUTRA                               MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.498611100000005,-5.309388905999981
+MAPF  ;SUB PORTO FRANCO                                   MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-47.376983001999974,-6.347742005999976
+MAPLN ;SUB ELEVADORA PAULINO NEVES                        MA       ;320;OMEGA Energia e Implantação 1 SA                               ;31/05/2017;07/07/2017,-42.596389002999956,-2.7272220029999517
+MAPR  ;SUB PERITORO                                       MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;;02/06/2000,-44.31305560499999,-4.54472220699995
+MASEPN;SUB PARNAIBA                                       MA       ;PGE;Parnaíba I Geração de Energia S.A.                             ;28/02/2013;17/01/2013,-44.35318600399995,-4.819914005999976
+MASO  ;SUB SANTO ANTONIO DOS LOPES                        MA       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;01/01/2013;17/12/2012,-44.35036100399998,-4.819994002999977
+PBCGD ;SUB CAMPINA GRANDE II                              PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;06/02/2000,-35.90805560399997,-7.266638904999979
+PBCGT ;SUB CAMPINA GRANDE III                             PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;29/03/2015;28/03/2015,-35.977722003999986,-7.255319006999969
+PBCMA ;SUB COREMAS                                        PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.958611100999974,-7.018027804999974
+PBCTM ;SUB COTEMINAS                                      PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/11/2009;18/12/2009,-35.89502800299999,-7.27633300399998
+PBEPA ;SUB EPASA                                          PB       ;EPB;CENTRAIS ELÉTRICAS DA PARAÍBA S.A                              ;31/01/2011;22/12/2010,-34.92750000199999,-7.208611003999977
+PBJPII;SUB JOAO PESSOA II                                 PB       ;BTE;BORBOREMA TRANSMISSÃO DE ENERGIA S.A.                          ;07/05/2022;18/06/2022,-34.92690280099998,-7.216138906999959
+PBMRD ;SUB MUSSURE II                                     PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-34.893611102999955,-7.1796944069999995
+PBNFL ;SUB NORFIL                                         PB       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;28/02/2014;07/05/2014,-34.901111007,-7.195278003999988
+PBPLD ;SUB PILOES II                                      PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;14/01/2012;14/11/2012,-35.60699990399996,-6.869667105999952
+PBRAL ;SUB RIO ALTO                                       PB       ;CR1;COREMAS I GERAÇÃO DE ENERGIA SPE SA                            ;31/05/2018;16/10/2018,-37.98920000299995,-6.966099999999983
+PBSRD ;SUB SANTA RITA II                                  PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/06/2012;08/07/2012,-34.97983540599995,-7.099025100999995
+PEADE ;SUB ALDEIA                                         PE       ;TM1;CENTRAIS ELÉTRICAS DE PERNAMBUCO S.A.                          ;30/06/2009;07/06/2009,-35.01797570299999,-7.860135302000003
+PEAGD ;SUB ANGELIM II                                     PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.26916670099996,-8.838994003999971
+PEAGL ;SUB ANGELIM                                        PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;06/02/2000,-36.26916670099996,-8.838944405999996
+PEARD ;SUB ARCOVERDE II                                   PE       ;AVT;ARCOVERDE TRANSMISSAO DE ENERGIA S.A.                          ;20/04/2019;17/04/2019,-37.033784999999966,-8.487599000999978
+PEBGI ;SUB BONGI                                          PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-34.92833330499997,-8.063305601999957
+PEBNO ;SUB BOM NOME                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-38.62055560199997,-7.996361106999984
+PECE2 ;SUB CAETES II                                      PE       ;AVT;ARCOVERDE TRANSMISSAO DE ENERGIA S.A.                          ;30/12/2015;25/12/2015,-36.76005000599997,-8.843285999999978
+PECLE ;SUB SAO CLEMENTE                                   PE       ;WWW;VENTOS DE SAO CLEMENTE I ENERGIAS RENOVAVEIS S.A               ;31/07/2016;25/05/2016,-36.73615000399997,-8.759400002999996
+PEFIAT;SUB MATA NORTE                                     PE       ;ITM;ITAMARACÁ TRANSMISSORA SPE S.A.                                ;31/07/2021;11/10/2022,-34.960200004,-7.627422004999971
+PEFLD ;SUB FLORESTA II                                    PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/10/2014;08/10/2014,-38.342258708999964,-8.748955575999958
+PEGNN ;SUB GOIANINHA                                      PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.08833330099998,-7.587472200999969
+PEGRD ;SUB GARANHUNS II                                   PE       ;IEG;INTERLIGAÇÃO ELÉTRICA GARANHUNS S.A.                           ;15/09/2015;04/09/2015,-36.40436100199997,-8.880722000999981
+PEJBD ;SUB JABOATAO II                                    PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/07/2018;29/04/2018,-34.98534200299997,-8.179352000999984
+PELAGC;SUB LAGOA DO CARRO                                 PE       ;FGH;BRE IMPLANTAÇÃO DE SISTEMAS DE TRANSMISSÃO ELÉTRICA SOCIEDADE D;09/09/2021;28/09/2020,-35.360277801999985,-7.865794405999964
+PEMID ;SUB MIRUEIRA II                                    PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;10/04/2016;12/04/2016,-34.891439005999985,-7.956725001999985
+PEMRR ;SUB MIRUEIRA                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-34.91138890399998,-7.956638902999998
+PEPAR ;SUB PARANATAMA                                     PE       ;SV1;EOLICA SERRA DAS VACAS I S.A.                                  ;30/04/2016;18/12/2015,-36.73316699999998,-8.908411003999959
+PEPFE ;SUB PAU FERRO                                      PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;28/02/2002;31/12/1990,-35.020617001000005,-7.85929699999997
+PEPRD ;SUB PIRAPAMA II                                    PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;06/02/2000,-35.023333304000005,-8.269972204999988
+PERCD ;SUB RECIFE II                                      PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.03916670399997,-8.113583303999974
+PERIB ;SUB RIBEIRAO                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.38944440299997,-8.461361103000002
+PESUD ;SUB SUAPE II                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;16/12/2012;08/12/2012,-35.050556003999986,-8.393611006999947
+PESUT ;SUB SUAPE III                                      PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/07/2012;03/07/2012,-35.006944000999965,-8.399167001999956
+PETAC ;SUB TACAIMBO                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.225555606,-8.330277800999966
+PETAT ;SUB TACARATU                                       PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/12/2014;15/12/2014,-38.13164700599998,-9.059307999999987
+PEVZD ;SUB JOAIRAM                                        PE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/07/2006;10/07/2006,-34.98122120599999,-8.08021860599996
+PIAR3 ;SUB ARARIPE III                                    PI       ;VS1;VENTOS DE SANTO AUGUSTO I ENERGIA RENOVÁVEIS S.A.              ;31/12/2016;09/12/2016,-40.67665800499998,-7.770803004999948
+PIBEA ;SUB BOA  ESPERANCA                                 PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-43.58000000599998,-6.731390006999959
+PICDU ;SUB CALDEIRAO I                                    PI       ;;;31/01/2016;,-40.551997005999965,-7.325342006999961
+PICH1 ;SUB COLETORA CHAPADA I                             PI       ;JII;VENTOS DE SANTA JOANA II ENERGIAS RENOVAVEIS S.A.              ;31/10/2015;18/12/2015,-40.71569400299995,-7.5619029999999725
+PICNP ;SUB CURRAL NOVO DO PIAUI II                        PI       ;IRC;IRACEMA TRANSMISSORA DE ENRGIA S.A                             ;30/11/2015;13/08/2015,-40.638669006999976,-8.033014006999963
+PICP2 ;SUB COLETORA CHAPADA II                            PI       ;CGB;CHAPADA BRANCA HOLDING S.A                                     ;31/08/2015;16/06/2015,-40.758264005,-7.476417004999973
+PICP3 ;SUB COLETORA CHAPADA III                           PI       ;CGB;CHAPADA BRANCA HOLDING S.A                                     ;30/12/2015;16/01/2016,-40.683167002999994,-7.391064002999997
+PIELM ;SUB ELISEU MARTINS                                 PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;06/01/2006;08/01/2006,-43.662500000999955,-8.096667006999951
+PIGBD ;SUB GILBUES II                                     PI       ;PDT;SAO PEDRO TRANSMISSORA DE ENERGIA S/A                          ;07/08/2017;21/02/2018,-45.32013600299996,-9.766569003999962
+PILDB ;SUB LAGOA DO BARRO I                               PI       ;LB1;LAGOA DO BARRO I ENERGIAS RENOVÁVEIS S.A.                      ;31/08/2018;27/10/2018,-41.605746001,-8.67366500199995
+PINVO ;SUB NOVA OLINDA                                    PI       ;NO8;NOVA OLINDA NORTE SOLAR S.A.                                   ;15/02/2018;09/12/2017,-42.55687799999998,-8.194181002999983
+PIPIC ;SUB PICOS                                          PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-41.421111107,-7.099694400999965
+PIPNB ;SUB PARNAIBA III                                   PI       ;899;ARGO TRANSMISSÃO DE ENERGIA S.A.                               ;27/06/2019;07/09/2019,-41.76610000399995,-3.1250250039999514
+PIPRI ;SUB PIRIPIRI                                       PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-41.75444440499996,-4.283861100999957
+PIQMN ;SUB QUEIMADA NOVA II                               PI       ;STJ;TRANSMISSORA SERTANEJA DE ELETRICIDADE S.A.                    ;30/06/2020;25/05/2021,-41.424628004,-8.598881006999989
+PIRGO ;SUB RIBEIRO GONCALVES                              PI       ;TAE;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A                   ;10/12/2006;11/12/2006,-45.50678180199998,-8.119825102999982
+PISBA ;SUB SAO BASILIO                                    PI       ;RIT;Central Eólica Brite Ltda                                      ;01/04/2016;05/07/2016,-40.57987290599999,-7.3964778039999715
+PISEW ;SUB SANTA EDWIGES                                  PI       ;RIT;Central Eólica Brite Ltda                                      ;01/04/2016;05/07/2016,-40.56898100699999,-7.379317000999947
+PISJA ;SUB SAO JOAO DO ARRAIAL II                         PI       ;;;09/09/9999;,-42.43610600399995,-3.818450003999999
+PISJI ;SUB SAO JOAO DO PIAUI                              PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-42.229166701,-8.354138903999967
+PISVR ;SUB SANTA VERONICA                                 PI       ;NTS;CENTRAL GERADORA SOLAR NOTUS S/A                               ;01/06/2016;19/07/2017,-40.56642200099998,-7.34721700099999
+PITSA ;SUB TERESINA                                       PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-42.82861110599998,-5.239972203999969
+PITSD ;SUB TERESINA II                                    PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-42.72666670399997,-5.264416701999949
+PITST ;SUB TERESINA III                                   PI       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/11/2017;18/10/2017,-42.68890000099998,-5.087601006
+PIVDP ;SUB CHAPADINHA I                                   PI       ;VSS;VENTOS DE SANTA ALBERTINA ENERGIAS RENOVÁVEIS S.A.             ;31/10/2017;02/08/2017,-40.63892500099996,-8.034175000999994
+RNABR ;SUB AREIA BRANCA                                   RN       ;MET;Eólica Mar e Terra Geração e Comercialização                   ;28/02/2014;18/02/2014,-36.916961007,-4.963689006999971
+RNACD ;SUB ACU II                                         RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.908622003999994,-5.593044005999957
+RNACT ;SUB ACU III                                        RN       ;PRZ;ARGO VI TRANSMISSAO DE ENERGIA S.A                             ;01/11/2017;09/09/2017,-37.03145990499996,-5.574764005999953
+RNALG ;SUB ALEGRIA                                        RN       ;NEO;NEW ENERGY OPTIONS GERAÇÃO DE ENERGIA S.A.                     ;30/12/2011;30/12/2011,-36.38328900199997,-5.124316006999948
+RNASS ;SUB ASSU V                                         RN       ;FVA;Central Fotovoltaica de Assu V                                 ;30/11/2017;23/12/2017,-36.01778000599995,-5.5083000070000026
+RNBFJ ;SUB BAIXA DO FEIJAO                                RN       ;BXF;CENTRAL EÓLICA BAIXA DO FEIJÃO I SA                            ;30/06/2016;21/05/2016,-36.050679005999996,-5.352990001999956
+RNBP1 ;SUB BRISA POTIGUAR I                               RN       ;AB1;NOVA ASA BRANCA I ENERGIAS RENOVÁVEIS SA                       ;31/05/2015;05/08/2015,-35.849083006,-5.254889003999949
+RNBP2 ;SUB BRISA POTIGUAR II                              RN       ;IAT;SANTA MARIA ENERGIAS RENOVÁVEIS SA                             ;30/04/2015;23/04/2015,-35.92388900399999,-5.443772002999992
+RNCA1 ;SUB CALANGO 1                                      RN       ;CLO;Calango 1 Energia Renovável SA                                 ;30/04/2016;30/01/2016,-36.53695400099997,-6.045274004999953
+RNCA2 ;SUB CALANGO 2                                      RN       ;CL2;Calango 2 Energia Renovável SA                                 ;30/04/2016;30/01/2016,-36.489338003,-6.039103999999952
+RNCAD ;SUB CARCARA II                                     RN       ;204;Usina de Energia Eólica Carcará II S.A.                        ;30/12/2014;09/12/2014,-36.99666700499995,-4.981389000999968
+RNCCA ;SUB CAICARA                                        RN       ;UNV;UNIÃO DOS VENTOS GERADORA EÓLICA S.A.                          ;22/04/2014;,-35.835278003999974,-5.085833005999973
+RNCDV ;SUB CAMPO DOS VENTOS                               RN       ;CV2;Campo dos Ventos II Energias Renováveis SA                     ;31/03/2015;05/12/2014,-35.94550000099997,-5.332889005999959
+RNCMM ;SUB CEARA MIRIM 2                                  RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/10/2014;17/09/2014,-35.452175006000004,-5.670319006
+RNCNB ;SUB CARNAUBAS                                      RN       ;UEC;Usina de Energia Eólica Carnaúba SA                            ;30/09/2017;20/06/2017,-35.665000007,-5.151389002999963
+RNCRB ;SUB CARAUBAS II                                    RN       ;DTE; DUNAS TRANSMISSÃO DE ENERGIA S.A.                             ;21/09/2023;01/05/2024,-37.55222219999996,-5.713055602999987
+RNCRD ;SUB CURRAIS NOVOS 2                                RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;09/09/9999;31/12/1990,-36.52694400399997,-6.276111006999997
+RNCRN ;SUB CURRAIS NOVOS II                               RN       ;RT1;LAGOA NOVA TRANSMISSORA DE ENERGIA ELÉTRICA SA                 ;28/02/2019;03/03/2019,-36.775661603,-6.284820705999948
+RNCUT ;SUB CUTIA                                          RN       ;CT7;USINA DE ENERGIA EOLICA CUTIA S/A                              ;30/09/2018;22/12/2018,-35.92886700499997,-5.119361005999963
+RNETD ;SUB EXTREMOZ II                                    RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;28/02/2014;16/02/2014,-35.299060999999995,-5.7439780009999595
+RNEUD ;SUB EURUS II                                       RN       ;EII;Eurus II Energias Renováveis SA                                ;31/03/2015;01/01/2015,-35.83895800299996,-5.3972170059999485
+RNGLH ;SUB GALINHOS                                       RN       ;555;Brasventos Eolo Gerador de Energia S.A                         ;30/06/2014;01/02/2014,-36.163417003999996,-5.117750003999959
+RNJCD ;SUB JOAO CAMARA 2                                  RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;28/02/2014;28/02/2014,-35.87416700299997,-5.2944440019999774
+RNJCT ;SUB JOAO CAMARA III                                RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/10/2014;25/09/2014,-35.887215002999994,-5.3772810029999505
+RNLAN ;SUB LANCHINHA                                      RN       ;LAN;GESTAMP EÓLICA LANCHINHA SA                                    ;30/04/2016;20/02/2016,-36.703611000999956,-6.1225000029999705
+RNLND ;SUB LAGOA NOVA II                                  RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/12/2015;20/12/2015,-36.524827002999984,-6.0604910029999814
+RNMAC ;SUB MACACOS                                        RN       ;EMA;SPE MACACOS ENERGIA SA                                         ;31/03/2015;03/12/2014,-35.84834100299997,-5.398675001999948
+RNMIT ;SUB MIASSABA 3                                     RN       ;556;Brasventos Miassaba 3 Geradora de Energia SA                   ;30/06/2014;01/02/2014,-36.48986100399998,-5.147500000999969
+RNMOD ;SUB MODELO                                         RN       ;MOD;Enel Green Power Modelo I Eólica SA                            ;30/11/2014;23/10/2014,-35.89694400099995,-5.420278005
+RNMSD ;SUB MOSSORO II                                     RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.349589004999984,-5.150358006999966
+RNMSQ ;SUB MOSSORO IV                                     RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/09/2017;28/10/2017,-37.28025000499997,-4.8481890039999485
+RNMVT ;SUB MORRO DOS VENTOS II                            RN       ;EUI;Desa Eurus I SA                                                ;15/10/2014;03/12/2014,-35.88498600599996,-5.371550001000003
+RNNTD ;SUB NATAL II                                       RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-35.23916670699998,-5.807472206999989
+RNNTS ;SUB NATAL III                                      RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/08/2012;26/08/2012,-35.31970400399996,-5.873863003999986
+RNODA ;SUB OLHO DAGUA                                     RN       ;EOD;GE OLHO DÁGUA SA                                               ;31/03/2015;25/02/2015,-35.977483003999964,-5.064175001999956
+RNPRS ;SUB PARAISO                                        RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/12/2002;10/02/2004,-36.00444440499996,-6.236388906999991
+RNPTG ;SUB POTIGUARES                                     RN       ;EOP;Energia Potiguar Geradora Eólica SA                            ;22/04/2014;05/04/2014,-35.78805600099997,-5.0908330009999645
+RNRCH ;SUB RIACHAO                                        RN       ;EAI;Central Eólica Acari Ltda                                      ;31/03/2015;30/05/2015,-35.44724300499996,-5.551706000999957
+RNREV ;SUB RENASCENCA V                                   RN       ;REV;Renascença V Energias Renováveis SA                            ;31/05/2015;01/01/2015,-35.86877199999998,-5.272958002999985
+RNRNC ;SUB RENASCENCA                                     RN       ;RE ;GERACAO CENTRAL EOLICA RENASCENCA I S.A.                       ;31/03/2015;24/12/2014,-35.88638500099995,-5.292111001999956
+RNSAB ;SUB ASA BRANCA                                     RN       ;ASA;Asa Branca IV Energias Renováveis SA                           ;01/10/2014;06/12/2014,-36.003442003999965,-5.354814000999966
+RNSEMV;SUB MORRO DOS VENTOS                               RN       ;MVI;Desa Morro dos Ventos I SA                                     ;30/04/2014;29/03/2014,-35.88486400199997,-5.373736001999987
+RNSESC;SUB SANTA CLARA                                    RN       ;SCI;SANTA CLARA I ENERGIAS RENOVÁVEIS LTDA                         ;30/04/2014;29/03/2014,-35.92016400399996,-5.261185004999959
+RNSMD ;SUB SANTANA DO MATOS II                            RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.655833304,-5.957777805999967
+RNSS2 ;SUB SERRA DE SANTANA 1 E 2                         RN       ;EEH;ECHOENERGIA PARTICIPACOES S.A.                                 ;30/04/2016;20/02/2016,-36.577500000999976,-6.081667005999975
+RNSS3 ;SUB SERRA DE SANTANA 3                             RN       ;EEH;ECHOENERGIA PARTICIPACOES S.A.                                 ;30/04/2016;20/02/2016,-36.498056002,-6.0538890069999525
+RNSTD ;SUB SANTA CRUZ II                                  RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-36.031666703999974,-6.231638900999997
+RNSTI ;SUB SANTO INACIO                                   CE       ;ESI;CENTRAL EÓLICA SANTO INÁCIO III S A                            ;31/10/2017;01/12/2017,-37.305958003,-4.78693300499998
+RNSTL ;SUB SANTA LUZIA II                                 PB       ;SDF;NEOENERGIA SANTA LUZIA TRANSMISSÃO DE ENERGIA S.A.             ;08/04/2022;29/07/2021,-36.972222201999955,-6.900555602999987
+RNTRS ;SUB TOUROS                                         RN       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/09/2017;12/05/2017,-35.65256600099997,-5.189627006999956
+RNUVT ;SUB UNIAO DOS VENTOS                               RN       ;EOP;Energia Potiguar Geradora Eólica SA                            ;22/04/2014;05/04/2014,-35.886111005999965,-5.094167001999949
+RNVLC ;SUB VALÊNCIA                                       RN       ;;;31/12/2018;,-35.428600005999954,-5.3128000049999855
+SEITB ;SUB ITABAIANA                                      SE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.458333305999986,-10.660000003999983
+SEITH ;SUB ITABAIANINHA                                   SE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.791658102999975,-11.27636460299999
+SEJDM ;SUB JARDIM                                         SE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;02/06/2000,-37.141666703,-10.89194440099999
+SENSC ;SUB NOSSA SENHORA DO SOCORRO                       SE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/01/2019;17/02/2019,-37.147444001999986,-10.875556007
+SEPSG ;SUB PORTO DE SERGIPE                               SE       ;SFT;SÃO FRANCISCO TRANSMISSÃO DE ENERGIA S.A.                      ;31/01/2024;,-36.941388905,-10.816388904999997
+RNSMG;SUB SAO MIGUEL                                     RN       ;GEE;SM GERACAO DE ENERGIA EOLICA LTDA                              ;01/10/2017;17/12/2019,-35.78617799999995,-5.267217002999985
+BALRA ;SUB LARANJEIRAS                                    BA       ;LJI;PARQUE EÓLICO LARANJEIRAS III SA                               ;31/01/2019;24/04/2019,-42.594934999999964,-11.062153999999964
+PILDV ;SUB LAGOA DOS VENTOS                               PI       ;SA1;ENEL GREEN POWER VENTOS DE SANTA ANGELA 1 S.A.                 ;31/05/2020;12/11/2020,-41.51090499999998,-8.734465999999998
+CEUFAL;SUB FAZENDA ALEX                                   CE       ;AEI;ALEX I ENERGIA SPE SA                                          ;31/05/2021;30/10/2021,-37.967944999999986,-5.26967099999996
+BATQN ;SUB TANQUE NOVO                                    BA       ;T67;TANQUE NOVO I ENERGIAS RENOVAVEIS S.A.                         ;01/01/2023;05/05/2023,-42.582928100000004,-13.689518299999975
+BAFUT ;SUB FUTURA                                         BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;28/10/2022;,-40.68644444,-9.660199999999975
+RNGAM ;SUB GAMELEIRA                                      RN       ;GML;SPE Gameleira Energia S.A.                                     ;25/11/2020;25/06/2021,-35.48799262,-5.241827969999974
+BASSD ;SUB COLETORA SOL DO SERTAO                         BA       ;THB;SOL DO SERTAO OB II ENERGIA SOLAR LTDA                         ;31/07/2021;20/08/2021,-42.610434,-12.239129999999989
+PIVDP3;SUB VDP3_VENTOS DO PIAUI III                       PI       ;BDO;VENTOS DE SÃO BERNARDO ENERGIAS RENOVÁVEIS S.A.                ;30/11/2021;04/06/2022,-40.574048000000005,-7.99073199999998
+RNSAG ;SUB COL SANTO AGOSTINHO                            RN       ;GSU;ENGIE BRASIL ENERGIA S.A.                                      ;01/09/2022;23/03/2023,-36.21800569999999,-5.575381899999968
+BABJL ;SUB BJL SOLAR                                      BA       ;BJ4;BJL4 SOLAR SA                                                  ;30/11/2017;12/05/2018,-43.46364,-13.316115999999965
+PEFVD ;SUB FONTES DOS VENTOS II                           PE       ;82;Enel Green Power Fontes dos Ventos 3 S.A.                      ;30/04/2021;22/12/2021,-38.057286999999974,-9.018493999999976
+BAUPR3;USI UTE PROSPERIDADE 3                             BA       ;IME;IMETAME ENERGIA LTDA                                           ;31/01/2023;03/05/2023,-38.207336,-12.499614999999949
+BASVT ;SUB COLETORA SAO VITOR                             BA       ;VVR;VENTOS DE SÃO VITOR 01 ENERGIAS RENOVÁVEIS S.A.                ;01/02/2022;18/07/2023,-42.53801599999997,-10.956666999999982
+BAUPR4;USI UTE PROSPERIDADE 4                             BA       ;IME;IMETAME ENERGIA LTDA                                           ;31/01/2023;30/05/2023,-38.20735191,-12.499602479999965
+BABBS ;SUB BABILONIA SUL                                  BA       ;CVR;Casa dos Ventos Energias Renováveis SA                         ;30/09/2023;17/11/2022,-41.290773,-11.119976999999949
+RNRVE ;SUB RIO DO VENTO EXPANSAO                          RN       ;CVR;Casa dos Ventos Energias Renováveis SA                         ;01/11/2022;07/03/2023,-36.113235599999996,-5.8088277999999605
+BACRL ;SUB CRISTALANDIA                                   BA       ;PCE;CRISTALANDIA I EOLICA S.A.                                     ;30/12/2017;01/09/2017,-41.532763999999986,-14.031475
+CEPTM ;SUB PITOMBEIRA                                     CE       ;EV1;ENERGIA DOS VENTOS I S.A                                       ;30/09/2018;22/12/2018,-37.64735099999996,-4.605373999999983
+RNCMR ;SUB COL CUMARU                                     RN       ;CMR;ENEL GREEN POWER CUMARU 01 S.A.                                ;01/04/2021;,-35.801443199999994,-5.161585399999979
+CESER ;SUB SERROTE                                        CE       ;SR1;SERROTE I GERACAO DE ENERGIA ELETRICA S.A                      ;30/09/2020;,-39.34899999999999,-3.301999999999964
+RNJDA ;SUB JANDAIRA I                                     RN       ;JIE;JANDAIRA I ENERGIAS RENOVAVEIS S.A.                            ;01/02/2022;15/10/2022,-36.019137099999966,-5.410766599999988
+RNAMZ ;SUB AMAZONAS                                       RN       ;AAI;Usina de Energia Eólica Caiçara I SA                           ;01/11/2015;05/12/2015,-36.9375,-5.016666999999984
+PICHP1;SUB CHAPADA I                                      PI       ;ONT;SIMÕES TRANSMISSORA DE ENERGIA ELÉTRICA S.A.                   ;31/10/2015;18/12/2015,-40.715693999999985,-7.5619029999999725
+BAVSE ;SUB VENTOS DE SANTA EUGENIA                        BA       ;99;STATKRAFT ENERGIAS RENOVAVEIS S/A                              ;31/10/2022;22/12/2022,-42.168093999999996,-11.428695500000003
+CEUCZS;SUB ICARAIZINHO SE                                 CE       ;ERE;CPFL ENERGIAS RENOVAVEIS S.A.                                  ;30/09/2009;14/10/2009,-39.67868599999997,-3.0191810000000032
+BASDS ;SUB SOL DO SERTAO                                  BA       ;BJ8;ETB - EMPRESA DE TRANSMISSAO BAIANA S.A.                       ;31/07/2021;18/07/2021,-42.610434,-12.323912999999948
+CEUFMS;SUB PRAIA FORMOSA SE                               CE       ;ERE;CPFL ENERGIAS RENOVAVEIS S.A.                                  ;30/07/2009;26/08/2009,-41.031649999999956,-2.9194219999999973
+PISGO ;SUB SAO GONCALO                                    PI       ;SG1;ENEL GREEN POWER SAO GONCALO 1 S.A.                            ;31/10/2019;22/02/2020,-45.282352,-10.103854999999953
+PBLZA ;SUB COLETORA LUZIA                                 PB       ;FEB;NEOENERGIA RENOVAVEIS S.A.                                     ;28/05/2022;06/07/2022,-36.93286999999998,-6.840795999999955
+RNBSL ;SUB BLOCO SUL                                      RN       ;SMP;Santa Mônica Energias Renováveis Ltda.                         ;30/09/2016;13/08/2016,-35.79793699999999,-5.294070999999974
+RNSDM ;SUB SERRA DO MEL                                   RN       ;VC2;VENTOS DE VILA CEARÁ II SPE S.A                                ;30/11/2019;08/02/2020,-37.049532,-5.131424999999979
+BAUPR1;USI UTE PROSPERIDADE 1                             BA       ;IME;IMETAME ENERGIA LTDA                                           ;31/01/2018;16/10/2018,-38.207802990000005,-12.499785329999952
+PICHP3;SUB CHAPADA III                                    PI       ;ONT;SIMÕES TRANSMISSORA DE ENERGIA ELÉTRICA S.A.                   ;30/12/2015;16/01/2016,-40.683492,-7.391286799999989
+PICHP2;SUB CHAPADA II                                     PI       ;ONT;SIMÕES TRANSMISSORA DE ENERGIA ELÉTRICA S.A.                   ;31/08/2015;16/06/2015,-40.758264,-7.4764169999999694
+RNSDM2;SUB SERRA DO MEL 2                                 RN       ;345;EOL POTIGUAR B31 SPE S.A.                                      ;27/12/2020;20/04/2021,-37.113856329999976,-5.27197179999996
+PILV3 ;SUB LAGOA DOS VENTOS III                           PI       ;AQW;Enel Green Power Ventos de São Roque 01 SA                     ;01/08/2021;01/10/2022,-41.59515829999998,-8.87290889999997
+BAUPR2;USI UTE PROSPERIDADE 2                             BA       ;IME;IMETAME ENERGIA LTDA                                           ;31/01/2023;24/05/2023,-38.20733610999997,-12.499613889999978
+BATUC ;SUB TUCANO                                         BA       ;90;TUCANO F2 GERACAO DE ENERGIAS SPE S.A.                         ;26/11/2021;09/07/2022,-38.7912,-11.28589999999997
+BAFLA ;SUB FOLHA LARGA                                    BA       ;VSJ;PARQUE EOLICO VENTOS DE SAO JANUARIO 01 S.A.                   ;31/01/2020;14/05/2020,-40.43820499999998,-10.35448699999995
+BAFLS ;SUB FOLHA LARGA SUL                                BA       ;DT5;VENTOS DE SAO BENTO ENERGIAS RENOVAVEIS S.A                    ;31/01/2020;14/05/2020,-40.51716299999998,-10.45814999999999
+MADLT ;SUB COLETORA DELTA 3                               MA       ;D3I;DELTA 3 I ENERGIA S.A.                                         ;31/05/2017;07/07/2017,-42.642607999999996,-2.637999999999977
+RNRDV ;SUB RIO DO VENTO                                   RN       ;CVR;Casa dos Ventos Energias Renováveis SA                         ;14/04/2021;19/06/2021,-35.960819999999956,-5.890821999999957
+BAQUN ;SUB QUINA                                          BA       ;986;Renova Energia SA                                              ;20/04/2022;05/08/2022,-42.67268999999999,-14.009271999999953
+RNJDT ;SUB JANDAIRA III                                   RN       ;AFN;AF ENERGIA SA                                                  ;01/07/2022;21/07/2023,-36.0188632,-5.410814499999958
+PIVDP2;SUB VDP2_VENTOS DO PIAUI II                        PI       ;DIC;VENTOS DE SANTO ALDERICO ENERGIAS RENOVÁVEIS S.A.              ;01/03/2022;02/09/2022,-40.67066999999997,-8.041972999999984
+CEALX ;SUB ALEX                                           CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/10/2020;19/08/2021,-37.96772099999998,-5.270943999999986
+RNJER ;SUB JERUSALEM                                      RN       ;164;EDP RENOVÁVEIS BRASIL S/A                                      ;01/02/2022;22/12/2022,-36.12169789999996,-5.659692599999971
+BACORT;SUB CORRENTINA                                     BA       ;CTP;ISA ENERGIA BRASIL S.A.                                        ;30/12/2022;,-44.741510000000005,-13.41386
+BAJUSS;SUB JUSSIAPE                                       BA       ;622;GRANDE SERTAO II TRANSMISSORA DE ENERGIA S/A                   ;30/12/2029;,-41.539999999999964,-13.560000000000002
+CEPCT;SUB PACATUBA                                       CE       ;DTE; DUNAS TRANSMISSÃO DE ENERGIA S.A.                             ;19/09/2024;16/10/2024,-38.549093865999964,-3.8871221129999753
+PITEIV;SUB TERESINA IV                                    PI       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;30/06/2029;,-42.60599941999999,-5.139999969999963
+MAGAR;SUB GRAÇA ARANHA                                   MA       ;GAS;Graça Aranha Silvania Transmissora de Energia S.A.             ;30/12/2022;,-44.35665999999998,-5.374209999999948
+CEMDN;SUB MORADA NOVA                                    CE       ;;;31/12/2022;,-38.45000032399997,-5.1280004969999595
+BABAR;SUB BARRA II                                       BA       ;CTP;ISA ENERGIA BRASIL S.A.                                        ;30/12/2022;,-43.41839999999996,-11.26867999999996
+CEPCT;SUB PACATUBA                                       CE       ;DTE; DUNAS TRANSMISSÃO DE ENERGIA S.A.                             ;19/09/2024;16/10/2024,-38.549093865999964,-3.8871221129999753
+PEBNO2;SUB BOM NOME II                                    PE       ;;;30/12/2029;,-38.650980000000004,-8.03116
+BAMDN2;SUB MEDEIROS NETO II                               BA       ;EK7;NEOENERGIA MORRO DO CHAPEU TRANSMISSAO E ENERGIA S.A.          ;06/12/2023;03/02/2024,-40.18062193399999,-17.337544690999948
+BACF2;SUB CAMPO FORMOSO II                               BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;30/03/2029;,-40.981999916999996,-10.265000001999965
+CEMAUR;SUB MAURITI                                        CE       ;CCE;Companhia Energética do Ceará                                  ;;31/12/1990,-38.78200006899999,-7.36500018299995
+CEABA;SUB ABAIARA                                        CE       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/12/2023;25/11/2023,-38.97200015699997,-7.390999715999953
+PEZB3;SUB ZEBU III                                       PE       ;;;30/12/2022;,-38.148000051999986,-9.34199999699996
+RNSPL ;SUB SIMPLICE                                       RN       ;DUN;DUNAMIS PROJETOS DE ENERGIA FOTOVOLTAICA SPE S.A.              ;30/11/2023;24/11/2024,-36.383399946,-5.485900095999966
+MASLT ;SUB SANTA LUZIA III                                MA       ;TNG;TANGARÁ TRANSMISSÃO DE ENERGIA S.A.                            ;31/12/2016;,-45.712000047000004,-4.004999990999977
+CECTE;SUB CRATÉUS                                        CE       ;T32;SPE NOVA ERA TERESINA TRANSMISSORA S.A.                        ;30/06/2029;,-40.66800006599999,-5.175000103000002
+BAARI;SUB ARIZONA                                        BA       ;SDV;SERRA DO VENTO ENERGETICA S.A.                                 ;31/08/2020;19/11/2020,-41.00619825299998,-9.751812197999982
+BABDI;SUB BRUMADO I                                      BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1999,-41.65480477899996,-14.205880320999995
+BABJU;SUB BOM JESUS                                      BA       ;BJS;ENEL GREEN POWER BOM JESUS DA LAPA SOLAR S.A.                  ;31/07/2017;30/06/2017,-43.33305028199999,-13.299456074999966
+BAFFUT;SUB COMPLEXO_FUTURA                                BA       ;MP1;ENEVA S.A.                                                     ;15/10/2022;24/05/2023,-40.68602086799996,-9.660781928999995
+BAGPX;SUB GPEXPAN                                        BA       ;ACA;ACAUA ENERGIA S/A                                              ;30/06/2018;17/09/2019,-42.63126724199998,-14.395531105999964
+BAHRZ;SUB HORIZONTE MP                                   BA       ;HMP;ENEL GREEN POWER HORIZONTE MP SOLAR S.A.                       ;15/07/2017;15/03/2018,-44.083243883999955,-12.60426918799999
+BAJRB;SUB JEREMOABO                                      BA       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/12/2021;05/03/2023,-38.29914767899999,-10.16150014599998
+BALAP;SUB LAPA                                           BA       ;NOV;NOVA OLINDA SUL SOLAR S.A.                                     ;31/10/2017;30/06/2017,-43.35158087499997,-13.310839018999957
+BAMCS;SUB MORRO DO CHAPEU SUL                            BA       ;MCE;Enel Green Power Morro do Chapéu I Eólica SA                   ;30/12/2018;29/06/2018,-41.31542763099998,-11.592893858999958
+BAOIT;SUB SUB OITIS                                      PI       ;NOM;NEOENERGIA OPERAÇÃO E MANUTENÇÃO S.A.                          ;14/03/2022;22/07/2022,-41.73469104899999,-9.040340256999968
+BASSB;SUB SERTAO SOLAR BARREIRAS                         BA       ;SB1;SOLAR BARREIRAS I ENERGIA SPE LTDA                             ;30/11/2019;23/11/2019,-45.59780997499996,-12.051320867999948
+BAVTC;SUB VITORIA DA CONQUISTA                           BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1999,-40.831205214999954,-14.833073776999981
+CECHE;SUB PEDRA CHEIROSA                                 CE       ;PC1;PEDRA CHEIROSA I ENERGIA S.A.                                  ;30/04/2018;27/06/2017,-39.73749984599999,-3.0058329649999678
+CELAV;SUB LAVRAS                                         CE       ;FDF;Lavras 1 Energias Renovaveis S.A.                              ;15/01/2022;29/07/2022,-38.93281184199998,-3.7917278169999804
+CEPCI;SUB PICI                                           CE       ;CCE;Companhia Energética do Ceará                                  ;;31/12/1990,-38.58324992399997,-3.745391038999969
+CESJAN;SUB JANDAIA                                        CE       ;JAN;ENERGIA DOS VENTOS VII S.A.                                    ;31/01/2020;30/05/2020,-37.84419996699995,-4.4088001399999825
+MASCC;SUB HEINEKEN-MA                                    MA       ;CMA;EQUATORIAL MARANHAO DISTRIBUIDORA DE ENERGIA S.A               ;01/04/2004;17/10/2004,-43.41081382699997,-4.8715901119999785
+PBCHN;SUB CHAFARIZ NORTE                                 PB       ;TYF;CANOAS 2 ENERGIA RENOVÁVEL S/A                                 ;30/06/2021;03/12/2021,-36.814211967000006,-6.882065090999959
+PBCHS;SUB CHAFARIZ SUL I                                 PB       ;CHH;CHAFARIZ 4 ENERGIA RENOVAVEL S.A.                              ;31/07/2021;25/09/2021,-36.87949468299996,-6.971063979999997
+PBCHSD;SUB CHAFARIZ SUL II                                PB       ;EOL;CHAFARIZ 1 ENERGIA RENOVÁVEL S/A                               ;31/07/2021;29/07/2021,-36.88792663299995,-6.983395855999959
+PBSSD;SUB SERRA DO SERIDO                                PB       ;EDF;EDF EN DO BRASIL PARTICIPACÕES LTDA                            ;01/12/2022;27/12/2022,-36.79921959999996,-6.9905399379999835
+PEBELM;SUB BELMONTE II                                    PE       ;LMZ;BELMONTE II PARQUE SOLAR S.A.                                  ;31/05/2023;25/10/2023,-38.83470979699996,-7.870061184999997
+PEBRI;SUB BRIGIDA                                        PE       ;BGS;BRIGIDA SOLAR SPE LTDA                                         ;15/04/2021;26/06/2021,-39.59164189699999,-8.565919004999955
+PISAM;SUB SANTO AMARO                                    PI       ;CQL;CENTRAL GERADORA SOLAR COQUEIRAL S/A                           ;30/12/2016;17/11/2022,-40.54925028699995,-7.307894155999975
+BAARO;SUB AROEIRA                                        BA       ;ENL;ENEL GREEN POWER BRASIL PARTICIPAÇÕES LTDA                     ;01/05/2023;19/12/2023,-41.47616150799996,-10.791088758
+CEABA2;SUB ABAIARA II                                     CE       ;LSM;LIGHTSOURCE MILAGRES I GERACAO DE ENERGIA LTDA                 ;31/08/2023;19/12/2023,-38.970835844999954,-7.391467184999954
+RNPRA;SUB PEDRA RAJADA                                   RN       ;EEH;ECHOENERGIA PARTICIPACOES S.A.                                 ;01/10/2017;,-36.31041865199995,-5.916280904999951
+BADAM;SUB DARIO MEIRA                                    BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1999,-39.88126152499996,-14.440447622999955
+PBPBT;SUB PILOES III                                     PB       ;SPA;ENERGISA PARAÍBA - DISTRIBUIDORA DE ENERGIA S.A.               ;01/12/2028;,-35.61899999499997,-6.880000007999968
+PIVEA;SUB VEA II                                         PI       ;XZV;CEC - CENTRAIS ELETRICAS CARNAUBAL S.A.                        ;01/07/2025;,-41.41049987399998,-4.124800209999989
+BAVB3;SUB VENTOS DA BAHIA III                            BA       ;VB1;Parque Eólico Ventos da Bahia I                                ;25/02/2021;03/12/2021,-41.499969093999994,-12.098415183999975
+BAVDB;SUB VENTOS DA BAHIA                                BA       ;BB2; Parque Eólico Alto do Bonito Ltda                             ;31/05/2017;21/09/2017,-41.49134408699996,-11.981695223999964
+PECRD;SUB CIRANDA                                        PE       ;CD4;CIRANDA 4 ENERGIAS RENOVÁVEIS S.A.                             ;01/01/2022;01/04/2023,-38.627376142,-7.636519620999991
+RNACA;SUB ACAUA                                          RN       ;ALG;ALIANÇA GERAÇÃO DE ENERGIA S.A.                                ;01/03/2022;29/08/2023,-36.645479025999975,-6.111334647999968
+RNAFB;SUB AFONSO BEZERRA                                 RN       ;BZ1;AFONSO BEZERRA I GERACAO DE ENERGIA SPE S.A                    ;31/12/2021;30/04/2022,-36.50618808399997,-5.324612263999995
+RNAMN;SUB ANEMUS                                         RN       ;GEN;COTESA ENGENHARIA LTDA                                         ;01/09/2022;10/05/2023,-36.59313374999999,-6.205313155999988
+RNBNT;SUB BLOCO NORTE                                    RN       ;BER;São Benedito Energias Renováveis ltda.                         ;30/09/2016;13/08/2016,-35.800472980999984,-5.225277020999954
+RNCA3;SUB CALANGO 3                                      RN       ;CG6;CALANGO 6 ENERGIA RENOVAVEL S.A.                               ;06/10/2016;28/12/2016,-36.489330892,-6.039539033999972
+RNCAJ;SUB CAJU                                           RN       ;HG2;Ventos de Santa Tereza 04 Energias Renováveis S.A.             ;01/01/2023;27/06/2023,-36.26872173299995,-5.686297811999964
+RNEXT;SUB EXTREMOZ                                       RN       ;CRN;COMPANHIA ENERGÉTICA DO RIO GRANDE DO NORTE COSERN             ;;31/12/1990,-35.288673501999995,-5.736751240999979
+RNMDR;SUB MONTE DO RONCA                                 RN       ;VSF;VENTOS DE SAO FERNANDO I ENERGIA S.A                           ;31/07/2020;03/10/2020,-36.03197405499998,-5.176286918999949
+RNMS2;SUB MORRO DO CHAPEU SUL II                         BA       ;E08;ENEL GREEN POWER VENTOS DE SANTA ESPERANÇA 8 S.A               ;30/04/2021;13/11/2021,-41.334548219,-11.611287905999973
+RNMSC;SUB MANGUE SECO                                    RN       ;MS1;Éolica Mangue Seco 1 Geradora e Comercializadora de Energia Elé;01/08/2011;26/08/2011,-36.359399372999974,-5.172742212999992
+RNMTV;SUB MONTE VERDE                                    RN       ;PRZ;ARGO VI TRANSMISSAO DE ENERGIA S.A                             ;28/02/2022;01/09/2022,-36.21533997299997,-5.446920004999981
+RNRID;SUB RIACHAO II                                     PB       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;31/05/2023;02/11/2023,-35.63386587499997,-6.517059958999994
+RNSMN;SUB SANTA ROSA MUNDO NOVO                          RN       ;SN1;CENTRAIS EÓLICAS SRMN I SA                                     ;27/03/2021;14/08/2021,-36.156220641999994,-5.913732128999982
+SEXNG;SUB SE XINGO                                       SE       ;EGP;ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA                    ;;03/11/2010,-37.79579988099999,-9.63300034699995
+BAPAS;SUB PONTO ASTERIO                                  BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1999,-39.89529049799995,-14.95415096399995
+BACTN;SUB CAETITE NORTE                                  BA       ;BRH;EÓLICA BREJINHOS ALFA S.A                                      ;01/10/2022;20/03/2024,-42.49051730899998,-14.156374140999958
+BARGT;SUB RIO GRANDE III                                 BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;30/09/2021;29/11/2021,-45.160457119,-12.698394014999963
+RNJND;SUB JANDAIRA II                                    RN       ;PRZ;ARGO VI TRANSMISSAO DE ENERGIA S.A                             ;01/08/2022;28/04/2023,-36.01945286799997,-5.411100087999955
+BACAN;SUB CANUDOS I                                      BA       ;CN2;Eólica Canudos II SPE S.A.                                     ;31/12/2021;01/12/2023,-38.75152085499997,-10.130487191999975
+CEARP;SUB ARARIPE IV                                     PI       ;VCZ;VENTOS DE SÃO ZACARIAS 01 ENERGIAS RENOVAVEIS S.A.             ;22/12/2023;02/10/2024,-40.71532008999998,-7.720134892999965
+CEART;SUB ARATICUM                                       CE       ;ENT;CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A - ELETRONORTE        ;30/06/2029;,-38.769999955,-7.285000246999971
+PIFMRG;SUB COLETORA MARANGATU                             PI       ;SD8;MARANGATU 1 ENERGIAS RENOVAVEIS S.A.                           ;30/10/2023;19/04/2024,-41.27304289199998,-4.082201195999971
+RNAVD;SUB AVENTURA II                                    RN       ;AV2;CENTRAL EOLICA AVENTURA II S/A                                 ;31/12/2020;,-35.774947288999954,-5.3350800239999785
+RNCSER;SUB OESTE SERIDO                                   RN       ;BRN;ELERA RENOVAVEIS S A.                                          ;30/09/2023;27/12/2023,-36.66944701699998,-6.786298302999967
+RNMEND;SUB MENDUBIM                                       RN       ;KUY;MENDUBIM GERAÇÃO DE ENERGIA LTDA                               ;31/07/2023;08/02/2024,-37.035712053,-5.615819068999997
+RNTSN;SUB TERRA SANTA                                    RN       ;TS1;CENTRAL EOLICA TERRA SANTA SPE I SA                            ;30/10/2020;,-36.05748593999999,-5.256865780999988
+SENSG;SUB NOSSA SENHORA DA GLORIA II                     SE       ;SRN;SERRA NEGRA TRANSMISSÃO DE ENERGIA S.A.                        ;31/12/2026;,-37.40833965499996,-10.26325000899999
+RNUMR;USI UMARI                                          RN       ;CVR;Casa dos Ventos Energias Renováveis SA                         ;31/05/2023;20/12/2023,-35.74508449399997,-6.406011393999961
+BATEF;SUB TEIXEIRA FREITAS                               BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;31/12/1990;31/12/1990,-39.72109074599996,-17.528663134
+BAILD;SUB ITABELA II                                     BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1990,-39.54597285899996,-16.57973653199997
+BACMC;SUB CAMACA                                         BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1990,-39.49894607199997,-15.419069302999958
+BABRK;SUB BRASKEM UNIB                                   BA       ;CPN;Companhia Petroquimica do Nordeste                             ;;31/12/1990,-38.492744190999986,-12.784558621999963
+CEUCZS;SUB ICARAIZINHO SE                                 CE       ;ERE;CPFL ENERGIAS RENOVAVEIS S.A.                                  ;30/09/2009;14/10/2009,-39.67878601199999,-3.0179036339999925
+BAEPC;SUB EMBASA                                         BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;02/06/2000,-38.443899955999996,-12.715698802999952
+BAEUN;SUB EUNAPOLIS I                                    BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;;31/12/1990,-39.56372275799998,-16.37169756899999
+BANHZ;SUB NOVO HORIZONTE                                 BA       ;HNS;PAN AMERICAN ENERGY ENERGIAS RENOVÁVEIS LTDA                   ;28/08/2023;02/02/2024,-42.20400305299995,-12.663945759
+PBRALD;SUB RIO ALTO II                                    PB       ;HT9;RIO ALTO UFV STL I SPE S/A                                     ;30/01/2024;02/04/2024,-36.97752311199997,-6.9127055629999745
+PIMRG;SUB MARANGATU                                      PI       ;SIT;SERRA DE IBIAPABA TRANSMISSORA DE ENERGIA S.A.                 ;31/10/2023;01/04/2024,-41.45809635699999,-4.1372888169999555
+CEPTN;SUB SUB PANATI                                     CE       ;ZX9;PANATI 1 ENERGIAS RENOVAVEIS S.A.                              ;15/12/2023;25/01/2024,-38.82066041599995,-5.321164404000001
+RNMNV;SUB MUNDO NOVO                                     RN       ;MNV; SPE 2 – Central Eólica Mundo  Novo S.A.                       ;31/08/2023;30/01/2024,-35.649323838999976,-5.185383462999994
+BAPPT;SUB PEDRA PINTADA                                  BA       ;ENL;ENEL GREEN POWER BRASIL PARTICIPAÇÕES LTDA                     ;01/08/2023;,-41.21340245199997,-10.771001149999961
+BASAR;SUB SERRA DO ASSURUA                               BA       ;9;Centrais Eólicas Assuruá SA                                    ;31/12/2023;06/08/2024,-42.56977106699998,-11.482952554999997
+PISJII;SUB S.JOAO PIAUI II                                PI       ;;;31/12/2022;,-42.506999248,-8.275001062000001
+BAFRP;SUB SUB FORMOSA DO RIO PRETO                       BA       ;CBA;Companhia de Eletricidade do Estado da Bahia                   ;31/08/2024;,-45.783000173000005,-10.768000330999996
+ALZBD;SUB ZEBU 2                                         AL       ;CHF;CHESF - Companhia Hidro Elétrica do São Francisco              ;;31/12/1990,-38.20107664699998,-9.357938454999953
