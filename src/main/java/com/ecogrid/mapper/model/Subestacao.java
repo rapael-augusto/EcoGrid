@@ -2,7 +2,7 @@ package com.ecogrid.mapper.model;
 
 import jakarta.persistence.*;
 import lombok.*;
-import java.awt.*;
+import org.locationtech.jts.geom.Point;
 import java.util.UUID;
 
 @Entity
