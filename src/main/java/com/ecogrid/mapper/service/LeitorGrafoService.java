@@ -5,6 +5,7 @@ import com.ecogrid.mapper.model.Subestacao;
 import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.GeometryFactory;
 import org.locationtech.jts.geom.Point;
+import org.springframework.stereotype.Service;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -13,6 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+@Service
 public class LeitorGrafoService {
 
     public List<Subestacao> lerSubestacoes(String caminho){
