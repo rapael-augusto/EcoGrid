@@ -7,6 +7,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -85,5 +86,35 @@ public class GrafoService {
                 .distinct()
                 .count();
     }
+
+    public List<Subestacao> getTodasSubestacoes(){
+        if(grafo.getAdjacencias().isEmpty()){
+            return Collections.emptyList();
+        }
+        return new ArrayList<>(grafo.getAdjacencias().keySet());
+    }
+
+    public List<LinhaDeTransmissao> getLinhasDaSubestacao(Subestacao subestacao){
+        if(grafo.getAdjacencias().isEmpty()){
+            return Collections.emptyList();
+        }
+        return new ArrayList<>(grafo.getAdjacencias().get(subestacao));
+    }
+
+    public Subestacao getVizinho(Subestacao subestacao, LinhaDeTransmissao linha){
+        if(linha == null || subestacao == null){
+            return null;
+        }
+
+        if(subestacao.equals(linha.getSubestacaoA())){
+            return linha.getSubestacaoB();
+        } else if(subestacao.equals(linha.getSubestacaoB())) {
+            return linha.getSubestacaoA();
+        }
+
+        return null;
+    }
+
+
 
 }
