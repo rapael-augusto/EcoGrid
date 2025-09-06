@@ -4,6 +4,7 @@ import com.ecogrid.mapper.model.Grafo;
 import com.ecogrid.mapper.model.LinhaDeTransmissao;
 import com.ecogrid.mapper.model.Subestacao;
 import lombok.RequiredArgsConstructor;
+import org.locationtech.jts.geom.Point;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -115,6 +116,21 @@ public class GrafoService {
         return null;
     }
 
+    public double calcularDistancia(Point a, Point b) {
+        if (a == null || b == null) {
+            return Double.MAX_VALUE;
+        }
 
+        double lon1 = a.getX();
+        double lat1 = a.getY();
+        double lon2 = b.getX();
+        double lat2 = b.getY();
+
+        double deltaLonKm = (lon2 - lon1) * 111.32 * Math.cos(Math.toRadians((lat1 + lat2) / 2));
+        double deltaLatKm = (lat2 - lat1) * 111.32;
+
+        return Math.sqrt(deltaLonKm * deltaLonKm + deltaLatKm * deltaLatKm);
+
+    }
 
 }

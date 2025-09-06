@@ -3,7 +3,6 @@ package com.ecogrid.mapper.service;
 import com.ecogrid.mapper.model.LinhaDeTransmissao;
 import com.ecogrid.mapper.model.Subestacao;
 import lombok.RequiredArgsConstructor;
-import org.locationtech.jts.geom.Point;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
@@ -15,10 +14,10 @@ public class RoteadorService {
     //Algoritmo A*
 
     private final GrafoService grafoService;
-    private static final double maximo = 1_000_000_000.0;
+    private final AreaProtegidaService areaProtegidaService;
+    private static double maximo = 1_000_000_000.0;
 
-    public List<Subestacao> encontrarCaminhoAStar(Subestacao origem, Subestacao destino,
-                                                  AreaProtegidaService areaProtegidaService) {
+    public List<Subestacao> encontrarCaminhoAStar(Subestacao origem, Subestacao destino) {
 
         Map<Subestacao, Double> custoG = new HashMap<>();
         Map<Subestacao, Subestacao> veioDe = new HashMap<>();
@@ -77,24 +76,7 @@ public class RoteadorService {
     }
 
     private double heuristica(Subestacao a, Subestacao b) {
-        return calcularDistancia(a.getCoordenadas(), b.getCoordenadas());
-    }
-
-    private double calcularDistancia(Point a, Point b) {
-        if (a == null || b == null) {
-            return Double.MAX_VALUE;
-        }
-
-        double lon1 = a.getX();
-        double lat1 = a.getY();
-        double lon2 = b.getX();
-        double lat2 = b.getY();
-
-        double deltaLonKm = (lon2 - lon1) * 111.32 * Math.cos(Math.toRadians((lat1 + lat2) / 2));
-        double deltaLatKm = (lat2 - lat1) * 111.32;
-
-        return Math.sqrt(deltaLonKm * deltaLonKm + deltaLatKm * deltaLatKm);
-
+        return grafoService.calcularDistancia(a.getCoordenadas(), b.getCoordenadas());
     }
 
     private List<Subestacao> reconstruirCaminho(Map<Subestacao, Subestacao> veioDe, Subestacao atual) {
